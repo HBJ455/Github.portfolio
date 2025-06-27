@@ -1,7 +1,7 @@
 🧑‍💼 𝙷𝙰𝙼𝙼𝙰𝙳 𝙱𝙸𝙽 𝙹𝙰𝙼𝙸𝙻
 🛠️ Sales & Technical Service Specialist
 🌟 5+ Years Experience ｜ 🤝 Customer-Centric ｜ 💡 Tech-Savvy Problem Solver
-📍 \[Siliguri] ｜ 📞 \[+91 7477696890] ｜ ✉️ \[hammadbinjamil@gmail.com] ｜ 🔗 \[https://www.linkedin.com/in/hammad1234]
+📍 \[Siliguri] ｜ 🌐 \[https://www.facebook.com/share/16hi1UntcC/] ｜ ✉️ \[hammadbinjamil.890@gmail.com] ｜ 🔗 \[https://www.linkedin.com/in/hammad1234]
 
 
 
