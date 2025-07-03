@@ -47,4 +47,3 @@ Open to collaborations in **data analysis projects** or mentorship opportunities
 [![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBJ455&show_icons=true&theme=github_dark)](https://github.com/HBJ455)  
 
 > *"Data is the new oil, but only if refined."* — Let’s build a future powered by insights!  
-
