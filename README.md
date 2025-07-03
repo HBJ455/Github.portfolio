@@ -1,7 +1,3 @@
-Here’s your **fully updated GitHub profile README** with **all your contact links** included and properly formatted for easy access:  
-
----
-
 # Hello, I'm Hammad Bin Jamil (HBJ455)!  
 
 **Future Goal:** Aspiring Data Analyst | Currently upskilling in SQL, Python & Analytics Tools  
