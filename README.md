@@ -1,64 +1,54 @@
-# Hello, I'm Hammad Bin Jamil (HBJ455)!
+Here’s your **fully updated GitHub profile README** with **all your contact links** included and properly formatted for easy access:  
 
-Welcome to my GitHub profile! I am a customer-centric tech enthusiast with a passion for empowering local businesses through digital transformation. With over 5 years in field sales, technical support, and customer relationship management, I bridge the gap between technology and business growth.
+---
 
-## About Me
+# Hello, I'm Hammad Bin Jamil (HBJ455)!  
 
-- **Profession:** Tech-Savvy Problem Solver in Sales and Support
-- **Location:** Siliguri, India
-- **Top Skills:** Customer Relationship Management, Sales Pitching, Technical Troubleshooting & Repair, Field Sales, Merchant Onboarding
-- **Interests:** Digital payments, tech education for businesses, community awareness on cyber safety.
-- **Mission:** To create practical impact by combining people-first sales strategies with hands-on technical knowledge.
+**Future Goal:** Aspiring Data Analyst | Currently upskilling in SQL, Python & Analytics Tools  
 
-## Current Focus
+Welcome to my GitHub profile! I am a customer-centric tech enthusiast with a passion for empowering local businesses through digital transformation. With over 5 years in field sales, technical support, and customer relationship management, I bridge the gap between technology and business growth — while actively working toward my goal of becoming a **data-driven decision-maker**.  
 
-I'm currently working on:
-- Expanding my project on social awareness about common scams (check out the [Awareness repository](https://github.com/HBJ455/Github.1)).
-- Developing tools to help small businesses adopt digital payments more easily.
-- Learning more about cybersecurity to better protect and educate merchants.
+## About Me  
 
-## Work Experience
+- **Profession:** Tech-Savvy Problem Solver in Sales and Support | **Future Data Analyst**  
+- **Location:** Siliguri, India  
+- **Top Skills:** Customer Relationship Management, Sales Pitching, Technical Troubleshooting, Data Analysis (Learning)  
+- **Current Focus:** SQL, Python, Excel, Power BI, and statistical fundamentals for analytics.  
+- **Mission:** To leverage data for actionable business insights, combining my people-first experience with analytical rigor.  
 
-**Field Executive (Paytm Projects)**
-- Onboarded merchants in field campaigns, helping 500+ local vendors go digital.
-- Trained vendors on digital payment apps and QR code usage.
-- Provided ongoing support and feedback collection to improve services.
+## Current Focus  
 
-**Service Engineer (Akhtar Electronics)**
-- Delivered repair and servicing of electronic devices.
-- Handled technical queries and diagnostics, resolving 1000+ tech service cases.
-- Managed customer service in a retail repair setup.
+### Data Analyst Journey  
+- 📊 Learning **SQL** (queries, joins, optimization) and **Python** (Pandas, NumPy, visualization).  
+- 📈 Practicing real-world datasets to derive insights (sales trends, customer behavior).  
+- 🔍 Exploring tools like **Power BI/Tableau** for dashboards and storytelling.  
 
-## Core Skills
-- ✓ Customer Relationship & Retention
-- ✓ Sales Pitching & Product Demo
-- ✓ Repairing & Troubleshooting (Electronics)
-- ✓ Field Sales & Market Insights
-- ✓ Communication & Trust Building
+### Ongoing Projects  
+- [Awareness Repository](https://github.com/HBJ455/Github.1): Social scam education (v1.0.0 released).  
+- **Small Business Analytics:** Developing tools to analyze digital payment adoption patterns.  
 
-## Highlights
-- **500+ Local Vendors:** Enabled their shift to digital payments.
-- **1000+ Tech Cases:** Successfully resolved technical service issues.
-- **Trusted Advisor:** Recognized by local businesses for reliability and effective solutions.
+## Work Experience  
 
-## My Projects
+**Field Executive (Paytm Projects)**  
+- Onboarded 500+ merchants, collected and analyzed field feedback to improve services.  
 
-### [Awareness - Social Scam Education](https://github.com/HBJ455/Github.1)
-A collection of awareness posters and content on common social scams (fake job offers, online shopping scams, loan frauds, OTP/KYC scams). Based on real-life examples from social media.
+**Service Engineer (Akhtar Electronics)**  
+- Diagnosed 1000+ tech cases, documented repair trends to optimize workflows.  
 
-**Release:** [v1.0.0](https://github.com/HBJ455/Github.1/releases/tag/v1.0.0) - Initial Awareness Content Launch.
+## Core Skills  
+- ✓ **Technical:** Troubleshooting, Data Analysis (in progress), Basic Automation  
+- ✓ **Business:** Sales, CRM, Market Research  
+- ✓ **Soft Skills:** Communication, Problem-Solving  
 
-## Let's Connect
-Looking for someone who speaks business and understands tech? Let's collaborate and scale new possibilities!
+## Let's Connect  
+Open to collaborations in **data analysis projects** or mentorship opportunities!  
 
-- [Facebook](https://www.facebook.com/share/16htlUntcC/)
-- [Email](mailto:hammadbinjamil890@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hammad1234)
+📧 **Email:** [hammadbinjamil890@gmail.com](mailto:hammadbinjamil890@gmail.com)  
+💼 **LinkedIn:** [Hammad Bin Jamil](https://www.linkedin.com/in/hammad1234)  
+📱 **Facebook:** [HBJ](https://www.facebook.com/share/16htlUntcC/)  
 
-## GitHub Stats
+## GitHub Stats  
+[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBJ455&show_icons=true&theme=github_dark)](https://github.com/HBJ455)  
 
-[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBJ455&show_icons=true&theme=github_dark)](https://github.com/HBJ455)
+> *"Data is the new oil, but only if refined."* — Let’s build a future powered by insights!  
 
-> "The best way to predict the future is to create it." - Abraham Lincoln
-
-Thanks for stopping by! I'm open to collaborations that drive positive change in the community.
