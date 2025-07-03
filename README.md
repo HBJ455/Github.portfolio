@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I am a customer-centric tech enthusiast with a pas
 Open to collaborations in **data analysis projects** or mentorship opportunities!  
 
 📧 **Email:** [hammadbinjamil890@gmail.com](mailto:hammadbinjamil890@gmail.com)  
-💼 **LinkedIn:** [Hammad Bin Jamil](https://www.linkedin.com/in/hammad1234)  
-📱 **Facebook:** [HBJ](https://www.facebook.com/share/16htlUntcC/)  
+💼 **LinkedIn:** [Hammad Bin Jamil] https://www.linkedin.com/in/hammad1234
+📱 **Facebook:** [HBJ] https://www.facebook.com/share/16htlUntcC/
 
 ## GitHub Stats  
 [![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBJ455&show_icons=true&theme=github_dark)](https://github.com/HBJ455)  
