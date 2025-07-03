@@ -1,57 +1,64 @@
-🧑‍💼 𝙷𝙰𝙼𝙼𝙰𝙳 𝙱𝙸𝙽 𝙹𝙰𝙼𝙸𝙻
-🛠️ Sales & Technical Service Specialist
-🌟 5+ Years Experience ｜ 🤝 Customer-Centric ｜ 💡 Tech-Savvy Problem Solver
-📍 \[Siliguri] ｜ 🌐 \[https://www.facebook.com/share/16hi1UntcC/] ｜ ✉️ \[hammadbinjamil.890@gmail.com] ｜ 🔗 \[https://www.linkedin.com/in/hammad1234]
+# Hello, I'm Hammad Bin Jamil (HBJ455)!
 
+Welcome to my GitHub profile! I am a customer-centric tech enthusiast with a passion for empowering local businesses through digital transformation. With over 5 years in field sales, technical support, and customer relationship management, I bridge the gap between technology and business growth.
 
+## About Me
 
-📌 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙪𝙢𝙢𝙖𝙧𝙮
-With 5+ years in sales, support, and customer handling, I empower local businesses by driving digital payment adoption, smooth merchant onboarding, and tech-driven growth. Skilled in balancing technical repair with relationship-focused service delivery.
+- **Profession:** Tech-Savvy Problem Solver in Sales and Support
+- **Location:** Siliguri, India
+- **Top Skills:** Customer Relationship Management, Sales Pitching, Technical Troubleshooting & Repair, Field Sales, Merchant Onboarding
+- **Interests:** Digital payments, tech education for businesses, community awareness on cyber safety.
+- **Mission:** To create practical impact by combining people-first sales strategies with hands-on technical knowledge.
 
+## Current Focus
 
+I'm currently working on:
+- Expanding my project on social awareness about common scams (check out the [Awareness repository](https://github.com/HBJ455/Github.1)).
+- Developing tools to help small businesses adopt digital payments more easily.
+- Learning more about cybersecurity to better protect and educate merchants.
 
-🧩 𝙒𝙝𝙖𝙩 𝙄 𝘿𝙤
-🔹 Enable digital payment setups for small/local businesses
-🔹 Generate leads & onboard merchants with custom strategies
-🔹 Solve tech issues post-sale – from troubleshooting to repair
-🔹 Educate merchants on tools, payment apps & QR usage
+## Work Experience
 
+**Field Executive (Paytm Projects)**
+- Onboarded merchants in field campaigns, helping 500+ local vendors go digital.
+- Trained vendors on digital payment apps and QR code usage.
+- Provided ongoing support and feedback collection to improve services.
 
+**Service Engineer (Akhtar Electronics)**
+- Delivered repair and servicing of electronic devices.
+- Handled technical queries and diagnostics, resolving 1000+ tech service cases.
+- Managed customer service in a retail repair setup.
 
-📂 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚
+## Core Skills
+- ✓ Customer Relationship & Retention
+- ✓ Sales Pitching & Product Demo
+- ✓ Repairing & Troubleshooting (Electronics)
+- ✓ Field Sales & Market Insights
+- ✓ Communication & Trust Building
 
-💼 Paytm Projects
-▪️ Onboarded merchants in field campaigns
-▪️ Trained vendors on digital payment apps
-▪️ Provided ongoing support and feedback collection
+## Highlights
+- **500+ Local Vendors:** Enabled their shift to digital payments.
+- **1000+ Tech Cases:** Successfully resolved technical service issues.
+- **Trusted Advisor:** Recognized by local businesses for reliability and effective solutions.
 
-🔧 Akhtar Electronics
-▪️ Delivered repair and servicing of electronics
-▪️ Handled technical queries and diagnostics
-▪️ Managed customer service in retail repair setup
+## My Projects
 
+### [Awareness - Social Scam Education](https://github.com/HBJ455/Github.1)
+A collection of awareness posters and content on common social scams (fake job offers, online shopping scams, loan frauds, OTP/KYC scams). Based on real-life examples from social media.
 
+**Release:** [v1.0.0](https://github.com/HBJ455/Github.1/releases/tag/v1.0.0) - Initial Awareness Content Launch.
 
-💡 𝘾𝙤𝙧𝙚 𝙎𝙠𝙞𝙡𝙡𝙨
-✔️ Customer Relationship & Retention
-✔️ Sales Pitching & Product Demo
-✔️ Repairing & Troubleshooting
-✔️ Field Sales & Market Insights
-✔️ Communication & Trust Building
+## Let's Connect
+Looking for someone who speaks business and understands tech? Let's collaborate and scale new possibilities!
 
+- [Facebook](https://www.facebook.com/share/16htlUntcC/)
+- [Email](mailto:hammadbinjamil890@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hammad1234)
 
+## GitHub Stats
 
-🏅 𝙃𝙞𝙜𝙝𝙡𝙞𝙜𝙝𝙩𝙨
-🔸 Helped 500+ local vendors go digital
-🔸 Successfully resolved 1000+ tech service cases
-🔸 Trusted by local businesses for reliability and service
+[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBJ455&show_icons=true&theme=github_dark)](https://github.com/HBJ455)
 
+> "The best way to predict the future is to create it." - Abraham Lincoln
 
-
-🎯 𝙈𝙮 𝙈𝙞𝙨𝙨𝙞𝙤𝙣
-Create practical impact by combining people-first sales strategies with hands-on technical knowledge. I aim to support growth and simplify technology for business owners.
-
-
-
-📞 𝙇𝙚𝙩’𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩
-Looking for someone who speaks business *and* understands tech? Let’s collaborate and scale new possibilities!
+Thanks for stopping by! I'm open to collaborations that drive positive change in the community.
